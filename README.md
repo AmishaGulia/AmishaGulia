@@ -27,12 +27,5 @@ I'm a passionate **Data Science and Machine Learning** student, constantly learn
 - Improving my skills in deep learning and neural networks
 - Learning about deployment of machine learning models in production
 
-## 📬 Reach out to me:
-- Email: [guliaamisha4@gmail.com]
-  
-
-
-
-
- "Data is the new oil, and I aim to be a data scientist who refines it!" 💻🔍
+"Data is the new oil, and I aim to be a data scientist who refines it!" 💻🔍
 
