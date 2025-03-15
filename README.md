@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hello! I'm Amisha 👋
 
-<!--
-**AmishaGulia/AmishaGulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Data Science and Machine Learning** student, constantly learning and exploring new techniques to solve real-world problems using data. My goal is to gain expertise in various aspects of data science, from statistical analysis to machine learning models, and apply them to create meaningful insights.
 
-Here are some ideas to get you started:
+🔍 **Currently learning:**  
+- Deep learning with TensorFlow & PyTorch  
+- Time series analysis and forecasting  
+- Natural Language Processing (NLP)  
+- Data visualization and storytelling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **My interests:**  
+- Data exploration and cleaning  
+- Predictive modeling and algorithms  
+- Data visualization (Matplotlib, Seaborn, Plotly)  
+- Big Data technologies (Spark, Hadoop)  
+- AI ethics and explainable AI  
+
+## 🧰 Languages and Tools:
+- **Programming Languages:** Python, R, SQL, c++
+- **Machine Learning Libraries:** scikit-learn, TensorFlow, Keras, PyTorch,Pandas
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Database & Big Data:** MySQL, Apache Spark
+- **Tools:** Jupyter, VSCode, Google Colab
+
+
+## 🌱 I’m currently working on:
+- Improving my skills in deep learning and neural networks
+- Learning about deployment of machine learning models in production
+
+## 📬 Reach out to me:
+- Email: [guliaamisha4@gmail.com]
+  
+
+
+
+
+ "Data is the new oil, and I aim to be a data scientist who refines it!" 💻🔍
+
