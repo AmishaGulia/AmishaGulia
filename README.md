@@ -1,6 +1,10 @@
 # Hello! I'm Amisha 👋
 
-I'm a passionate **AI & ML Intern**, constantly learning and applying AI/ML techniques to solve real-world problems. My goal is to create meaningful insights and deploy impactful AI solutions.
+I am a **M.Sc. in Computer Science (Data Science & Machine Learning) graduate** and a passionate **AI & ML Intern**. I specialize in building intelligent systems that solve real-world problems using Machine Learning, Deep Learning, NLP, and Computer Vision.  
+
+I enjoy designing end-to-end AI/ML pipelines, deploying models in production, and creating solutions that provide meaningful insights. My goal is to continuously learn, innovate, and contribute to impactful AI projects.
+
+**Key Skills:** Python, PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face, FAISS, OpenCV, SQL, Flask, Streamlit, Docker.
 
 ---
 
