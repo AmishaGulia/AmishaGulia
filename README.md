@@ -1,6 +1,6 @@
 # Hello! I'm Amisha 👋
 
-I'm a passionate **Data Scientist & Machine Learning Intern**, constantly learning and applying AI/ML techniques to solve real-world problems. My goal is to create meaningful insights and deploy impactful AI solutions.
+I'm a passionate **AI & ML Intern**, constantly learning and applying AI/ML techniques to solve real-world problems. My goal is to create meaningful insights and deploy impactful AI solutions.
 
 ---
 
