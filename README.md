@@ -89,10 +89,10 @@ I am also experienced in **SQL, Java, and Python**, and I am passionate about cr
 **Skills:** Deep Learning, Multi-Label Classification, Model Evaluation, Experiment Design  
 [View Project](https://github.com/AmishaGulia/Lungs-Diseases-Classifier)
 
---
+
 ---
 
-###5. **LawGPT Multi-Agent Legal Consultation System**
+### 5. **LawGPT Multi-Agent Legal Consultation System**
 **Description:** AI-powered system for Indian legal queries using multi-agent LLM architecture.  
 **Technologies:** Python, Flask, Gemini, FAISS, Nomic embeddings  
 **Skills:** NLP, LLM integration, Web App Development, Knowledge Retrieval  
